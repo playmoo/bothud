@@ -6,7 +6,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans"
+				"name"		"B612 Regular"
 				"tall"		"7"
 				"antialias" "1"
 			}
@@ -16,7 +16,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans"
+				"name"		"B612 Regular"
 				"tall"		"8"
 				"antialias" "1"
 			}
@@ -26,7 +26,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans"
+				"name"		"B612 Regular"
 				"tall"		"9"
 				"antialias" "1"
 			}
@@ -36,7 +36,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans"
+				"name"		"B612 Regular"
 				"tall"		"10"
 				"antialias" "1"
 			}
@@ -46,7 +46,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans"
+				"name"		"B612 Regular"
 				"tall"		"12"
 				"antialias" "1"
 			}
@@ -56,7 +56,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans SemiBold"
+				"name"		"B612 Bold"
 				"tall"		"13"
 				"antialias" "1"
 			}
@@ -66,7 +66,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans SemiBold"
+				"name"		"B612 Bold"
 				"tall"		"14"
 				"antialias" "1"
 			}
@@ -76,7 +76,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans SemiBold"
+				"name"		"B612 Bold"
 				"tall"		"16"
 				"antialias" "1"
 			}
@@ -86,7 +86,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans SemiBold"
+				"name"		"B612 Bold"
 				"tall"		"18"
 				"antialias" "1"
 			}
@@ -96,7 +96,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans SemiBold"
+				"name"		"B612 Bold"
 				"tall"		"20"
 				"antialias" "1"
 			}
@@ -106,7 +106,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans SemiBold"
+				"name"		"B612 Bold"
 				"tall"		"22"
 				"antialias" "1"
 			}
@@ -116,7 +116,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans SemiBold"
+				"name"		"B612 Bold"
 				"tall"		"22"
 				"antialias" "1"
 				"outline"	"1"
@@ -127,7 +127,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans SemiBold"
+				"name"		"B612 Bold"
 				"tall"		"24"
 				"antialias" "1"
 			}
@@ -137,7 +137,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans SemiBold"
+				"name"		"B612 Bold"
 				"tall"		"24"
 				"antialias" "1"
 				"outline"	"1"
@@ -148,7 +148,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans SemiBold"
+				"name"		"B612 Bold"
 				"tall"		"26"
 				"antialias" "1"
 			}
@@ -158,7 +158,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans SemiBold"
+				"name"		"B612 Bold"
 				"tall"		"32"
 				"antialias" "1"
 			}
@@ -168,7 +168,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans SemiBold"
+				"name"		"B612 Bold"
 				"tall"		"36"
 				"antialias" "1"
 			}
@@ -178,7 +178,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans SemiBold"
+				"name"		"B612 Bold"
 				"tall"		"38"
 				"antialias" "1"
 			}
@@ -188,7 +188,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans SemiBold"
+				"name"		"B612 Bold"
 				"tall"		"40"
 				"antialias" "1"
 			}
@@ -198,7 +198,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans SemiBold"
+				"name"		"B612 Bold"
 				"tall"		"48"
 				"antialias" "1"
 			}
@@ -208,7 +208,7 @@ Scheme
 		{
 			"6"
 			{
-				"name"		"IBM Plex Sans SemiBold"
+				"name"		"B612 Bold"
 				"tall"		"14"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"900"
@@ -220,7 +220,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"    "IBM Plex Sans"
+				"name"    "B612 Regular"
 				"tall"    "10"
 				"antialias" "1"
 			}
@@ -230,7 +230,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"    "IBM Plex Sans"
+				"name"    "B612 Regular"
 				"tall"    "11"
 				"antialias" "1"
 			}
@@ -240,7 +240,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"    "IBM Plex Sans SemiBold"
+				"name"    "B612 Bold"
 				"tall"    "14"
 				"antialias" "1"
 			}
@@ -250,7 +250,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"    "IBM Plex Sans"
+				"name"    "B612 Regular"
 				"tall"    "9"
 				"antialias"   "1"
 			}
@@ -260,7 +260,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"    "IBM Plex Sans"
+				"name"    "B612 Regular"
 				"tall"    "10"
 				"antialias"   "1"
 			}
@@ -270,7 +270,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"    "IBM Plex Sans"
+				"name"    "B612 Regular"
 				"tall"    "13"
 				"antialias"   "1"
 			}
@@ -280,7 +280,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"IBM Plex Sans"
+				"name"		"B612 Regular"
 				"tall"		"12"
 				"antialias" "1"
 			}
@@ -291,14 +291,14 @@ Scheme
 	{
 		"8"
 		{
-			"font" "IBMPlexSans-Regular.ttf"
-			"name" "IBM Plex Sans"
+			"font" "B612-Regular.ttf"
+			"name" "B612 Regular"
 		}
 		
 		"9"
 		{
-			"font" "IBMPlexSans-SemiBold.ttf"
-			"name" "IBM Plex Sans SemiBold"
+			"font" "B612-Bold.ttf"
+			"name" "B612 Bold"
 		}
 	}
 }
